@@ -1,15 +1,176 @@
+# 👋 Hi, I'm Belgin Lino SP
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belgin_lino_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belginlino) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:belginlino485@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Belginlino&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Belginlino&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Belginlino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Hello! I'm **Belgin Lino SP**, currently pursuing my **B.Tech (3rd Year)** in **Artificial Intelligence & Data Science (AI&DS)** at **St. Xavier's Catholic College of Engineering**.
+
+My journey into technology began after completing my schooling when I enrolled in a **Python Full Stack Development** course. That course sparked my curiosity about how websites, the Internet, and modern technologies work. Since then, I've been passionate about continuously learning, experimenting, and building new things.
+
+Choosing AI&DS for my degree has given me the opportunity to explore programming, web development, artificial intelligence, automation, and problem-solving. I enjoy learning new technologies and constantly challenging myself with real-world projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Belginlino&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🎯 My Goal
+
+My immediate goal is to secure a placement through my college campus in a good software company where I can continue learning from experienced professionals.
+
+My long-term vision is to:
+
+- Continuously improve my technical and professional skills.
+- Build impactful software products.
+- Explore emerging technologies.
+- Work on innovative ideas.
+- Travel, explore new experiences, and enjoy life while growing as a developer.
+
+---
+
+# 💻 Technical Skills
+
+## Languages
+
+- Python
+- Java
+- JavaScript
+- C
+- HTML5
+- CSS3
+
+## Frontend
+
+- React
+- Vite
+- Bootstrap
+- Responsive Web Design
+
+## Backend
+
+- Django
+- Flask
+- Firebase
+
+## Database
+
+- MySQL
+- SQLite
+- Firebase Firestore
+
+## Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- Firebase Hosting
+- Cloudflare
+- n8n Automation
+- Canva
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React Development
+- Firebase Authentication & Firestore
+- AI-powered Web Applications
+- Software Architecture
+- Deployment & DevOps Basics
+- Modern Full Stack Development
+
+---
+
+# 💼 Experience
+
+## Startup Experience
+
+Currently working with a startup company where I have gained hands-on experience in:
+
+- Website hosting
+- Git & GitHub collaboration
+- Working with team members on projects
+- Deployment workflows
+- Real-world software development practices
+
+This experience has helped me understand how software projects are developed and maintained in a collaborative environment.
+
+---
+
+# 🚀 Projects
+
+Some of the projects and ideas I have worked on include:
+
+- 🛒 E-Commerce Website
+- 🧾 Billing System for a Clothing Store
+- 🤖 AI Tech News WhatsApp Bot
+- 📂 Google Classroom File Automation
+- 🌐 Django Full Stack Web Applications
+- 💡 AI-based Product Ideas
+- 🏆 Hackathon Projects
+
+I enjoy participating in hackathons because they allow me to solve real-world problems while learning new technologies under time constraints.
+
+---
+
+# 🧠 Areas of Interest
+
+- Artificial Intelligence
+- Full Stack Development
+- Web Technologies
+- Automation
+- Software Engineering
+- Cloud Deployment
+- UI/UX Design
+- Open Source
+
+---
+
+# 📚 Learning Philosophy
+
+I strongly believe that technology is constantly evolving, so I try to keep learning every day.
+
+I enjoy:
+
+- Learning new programming languages
+- Exploring modern frameworks
+- Building personal projects
+- Understanding how technologies work
+- Solving challenging problems
+
+Every project teaches me something new and helps me become a better developer.
+
+---
+
+# 🎓 Education
+
+**Bachelor of Technology (B.Tech)**  
+**Artificial Intelligence & Data Science**
+
+**St. Xavier's Catholic College of Engineering**
+
+(Currently in 3rd Year)
+
+---
+
+# 🌍 Career Vision
+
+I aspire to become a skilled software engineer who can develop meaningful applications that solve real-world problems.
+
+In the future, I hope to:
+
+- Work with talented teams.
+- Contribute to innovative software products.
+- Explore AI and emerging technologies.
+- Keep improving both personally and professionally.
+- Never stop learning.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in:
+
+- Learning from experienced developers
+- Collaborating on interesting projects
+- Participating in hackathons
+- Exploring new technologies
+- Building impactful software
+
+> **"Learning never stops. Every new technology is another opportunity to grow."**
