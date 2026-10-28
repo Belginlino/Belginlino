@@ -1,3 +1,16 @@
+ <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Belgin+Lino+%F0%9F%91%8B;Full+Stack+Developer+in+Progress;AI+%26+Data+Science+Student;Building+Ideas+Into+Reality" alt="Animated introduction" />
+
+**AI & Data Science Student | Full Stack Developer**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat-square&logo=googlechrome&logoColor=white)](https://belginlino.in)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-white?style=flat-square&logo=github&logoColor=black)](https://github.com/Belginlino)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:belginlino485@gmail.com)
+
+</div>
+
+---
  
 <div align="center">
 
