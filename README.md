@@ -11,22 +11,6 @@
 </div>
 
 ---
- 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Belgin%20Lino&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=16" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Progress;Building+Ideas+into+Reality;Exploring+AI+%26+Web+Technologies" alt="Typing animation" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8)](https://belginlino.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0F172A?style=flat-square&logo=github)](https://github.com/Belginlino)
-[![Email](https://img.shields.io/badge/Email-Contact-0F172A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:belginlino485@gmail.com)
-
-</div>
-
----
 
 ### 👋 About Me
 
