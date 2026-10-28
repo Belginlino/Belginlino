@@ -1,177 +1,152 @@
-# 👋 Hi, I'm Belgin Lino SP
+# 👋 Hey, I'm Belgin Lino SP
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Full+Stack+Developer+in+Progress;Building+Projects+%7C+Learning+Every+Day;Exploring+AI%2C+Automation+%26+Web+Tech" alt="Animated typing introduction" />
+</p>
 
-Hello! I'm **Belgin Lino SP**, currently pursuing my **B.Tech (3rd Year)** in **Artificial Intelligence & Data Science (AI&DS)** at **St. Xavier's Catholic College of Engineering**.
-
-My journey into technology began after completing my schooling when I enrolled in a **Python Full Stack Development** course. That course sparked my curiosity about how websites, the Internet, and modern technologies work. Since then, I've been passionate about continuously learning, experimenting, and building new things.
-
-Choosing AI&DS for my degree has given me the opportunity to explore programming, web development, artificial intelligence, automation, and problem-solving. I enjoy learning new technologies and constantly challenging myself with real-world projects.
-
----
-
-# 🎯 My Goal
-
-My immediate goal is to secure a placement through my college campus in a good software company where I can continue learning from experienced professionals.
-
-My long-term vision is to:
-
-- Continuously improve my technical and professional skills.
-- Build impactful software products.
-- Explore emerging technologies.
-- Work on innovative ideas.
-- Travel, explore new experiences, and enjoy life while growing as a developer.
+<p align="center">
+  <a href="https://belginlino.in">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Belginlino">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:belginlino485@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-# 💻 Technical Skills
+## 🧑‍💻 About Me
 
-## Languages
+I'm a third-year **B.Tech Artificial Intelligence & Data Science** student at **St. Xavier's Catholic College of Engineering**, passionate about building useful software and exploring emerging technologies.
 
-- Python
-- Java
-- JavaScript
-- C
-- HTML5
-- CSS3
+My journey started with Python Full Stack Development, which introduced me to web technologies and inspired me to keep building. Today, I enjoy developing full-stack applications, experimenting with automation, and exploring ways to integrate AI into real-world products.
 
-## Frontend
+- 🎓 AI & Data Science undergraduate
+- 💻 Interested in full-stack development and software engineering
+- 🤖 Exploring AI-powered applications and automation
+- 🤝 Learning through teamwork, projects, and hackathons
+- 🎯 Working towards a software engineering placement
+- 🌱 Believe in learning by building
 
-- React
-- Vite
-- Bootstrap
-- Responsive Web Design
-
-## Backend
-
-- Django
-- Flask
-- Firebase
-
-## Database
-
-- MySQL
-- SQLite
-- Firebase Firestore
-
-## Tools & Technologies
-
-- Git
-- GitHub
-- VS Code
-- Firebase Hosting
-- Cloudflare
-- n8n Automation
-- Canva
+> **I don't just want to learn technology. I want to build something meaningful with it.**
 
 ---
 
-# 🌱 Currently Learning
+## ⚡ Tech Stack
 
-- Advanced React Development
-- Firebase Authentication & Firestore
-- AI-powered Web Applications
-- Software Architecture
-- Deployment & DevOps Basics
-- Modern Full Stack Development
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css" alt="Python, Java, JavaScript, C, HTML and CSS" />
+</p>
 
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-# 💼 Experience
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap" alt="React, Vite and Bootstrap" />
+</p>
 
-## Startup Experience
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,firebase,mysql,sqlite" alt="Django, Flask, Firebase, MySQL and SQLite" />
+</p>
 
-Currently working with a startup company where I have gained hands-on experience in:
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,canva" alt="Git, GitHub, VS Code, Cloudflare and Canva" />
+</p>
 
-- Website hosting
-- Git & GitHub collaboration
-- Working with team members on projects
-- Deployment workflows
-- Real-world software development practices
-
-This experience has helped me understand how software projects are developed and maintained in a collaborative environment.
+**Also exploring:** n8n automation, Firebase Authentication, Firestore, deployment workflows, and AI integration.
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
-Some of the projects and ideas I have worked on include:
+### 🛒 E-Commerce Web Application
+A web application focused on product browsing, shopping workflows, and full-stack development.
 
-- 🛒 E-Commerce Website
-- 🧾 Billing System for a Clothing Store
-- 🤖 AI Tech News WhatsApp Bot
-- 📂 Google Classroom File Automation
-- 🌐 Django Full Stack Web Applications
-- 💡 AI-based Product Ideas
-- 🏆 Hackathon Projects
+**Tech:** Django · Python · HTML · CSS · JavaScript
 
-I enjoy participating in hackathons because they allow me to solve real-world problems while learning new technologies under time constraints.
+### 🧾 Clothing Store Billing System
+A billing and shop-management project designed to simplify everyday sales operations and record management.
 
----
+**Tech:** React · Firebase · JavaScript
 
-# 🧠 Areas of Interest
+### 🤖 AI Tech News WhatsApp Bot
+An automation project exploring how technology news can be collected and delivered through WhatsApp workflows.
 
-- Artificial Intelligence
-- Full Stack Development
-- Web Technologies
-- Automation
-- Software Engineering
-- Cloud Deployment
-- UI/UX Design
-- Open Source
+**Tech:** Python · APIs · Automation
 
----
+### 📂 Google Classroom File Automation
+An automation idea focused on organizing and simplifying file-related academic workflows.
 
-# 📚 Learning Philosophy
+**Tech:** Python · Automation
 
-I strongly believe that technology is constantly evolving, so I try to keep learning every day.
+### 🛰️ SatQuery AI
+A hackathon project concept exploring natural-language interaction with satellite imagery and AI-assisted analysis.
 
-I enjoy:
+**Tech:** Next.js · FastAPI · Vision-Language Models
 
-- Learning new programming languages
-- Exploring modern frameworks
-- Building personal projects
-- Understanding how technologies work
-- Solving challenging problems
-
-Every project teaches me something new and helps me become a better developer.
+<p align="center">
+  <a href="https://github.com/Belginlino?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
 
 ---
 
-# 🎓 Education
+## 📊 GitHub Statistics
 
-**Bachelor of Technology (B.Tech)**  
-**Artificial Intelligence & Data Science**
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Belginlino&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belginlino&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
 
-**St. Xavier's Catholic College of Engineering**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Belginlino&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-(Currently in 3rd Year)
-
----
-
-# 🌍 Career Vision
-
-I aspire to become a skilled software engineer who can develop meaningful applications that solve real-world problems.
-
-In the future, I hope to:
-
-- Work with talented teams.
-- Contribute to innovative software products.
-- Explore AI and emerging technologies.
-- Keep improving both personally and professionally.
-- Never stop learning.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belginlino&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+</p>
 
 ---
 
-# 🤝 Let's Connect
+## 🌱 Currently Learning
 
-I'm always interested in:
+- Advanced React and modern full-stack development
+- Firebase Authentication and Firestore
+- AI-powered web application development
+- Software architecture and clean code
+- Deployment, cloud platforms, and DevOps fundamentals
 
-- Learning from experienced developers
-- Collaborating on interesting projects
-- Participating in hackathons
-- Exploring new technologies
-- Building impactful software
+---
 
-> **"Learning never stops. Every new technology is another opportunity to grow."**
+## 🎯 My Goals
+
+- Strengthen problem-solving and programming fundamentals
+- Build complete, practical full-stack applications
+- Improve collaboration and software engineering skills
+- Secure a software engineering placement
+- Explore AI and turn useful ideas into working products
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating on interesting projects, participating in hackathons, and connecting with fellow developers.
+
+<p align="center">
+  <a href="https://github.com/Belginlino">GitHub</a> •
+  <a href="https://belginlino.in">Portfolio</a> •
+  <a href="mailto:belginlino485@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <i>"Stay curious. Keep building. Never stop learning."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=100&section=footer" alt="Animated gradient footer" width="100%" />
+</p>
