@@ -177,28 +177,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- 📊 TELEMETRY & LIVE ANALYTICS HUD (100% WORKING SERVERS) -->
-<h2 align="center"><code>// LIVE_GITHUB_TELEMETRY_HUD</code></h2>
+<h2 align="center"><code>📊 // LIVE_GITHUB_TELEMETRY_HUD</code></h2>
 
 <div align="center">
 
-<!-- ROW 1: STREAK + PROFILE OVERVIEW -->
+<!-- ROW 1: STREAK + PROFILE OVERVIEW & CONTRIBUTION GRAPH -->
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Belginlino&theme=radical&hide_border=true&background=141321&stroke=00F5D4&ring=FF2A85&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belginlino&theme=radical" alt="Profile Summary" />
 
 <br/><br/>
 
-<!-- ROW 2: STATS + TOP LANGUAGES (REPOS & COMMITS) -->
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Belginlino&theme=radical" alt="GitHub Stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Belginlino&theme=radical" alt="Top Languages by Repo" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Belginlino&theme=radical" alt="Top Languages by Commit" />
-
-<br/><br/>
-
-<!-- ROW 3: CYBERPUNK AREA CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Belginlino&bg_color=141321&color=00F5D4&line=FF2A85&point=38BDF8&area=true&area_color=00F5D4&hide_border=true&custom_title=REAL-TIME%20COMMIT%20FREQUENCY%20MATRIX" width="98%" alt="Commit Graph" />
+<!-- ROW 2: STATS + LANGUAGES + PRODUCTIVE CODING HOURS (IST) -->
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Belginlino&theme=radical" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Belginlino&theme=radical" alt="Top Languages by Repo" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Belginlino&theme=radical&utcOffset=5.5" alt="Productive Coding Hours" />
 
 </div>
 
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- 🌊 RELIABLE FOOTER -->
