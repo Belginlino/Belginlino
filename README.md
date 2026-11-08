@@ -1,16 +1,21 @@
 <div align="center">
 
-<!-- 🌌 FIXED ANIMATED HEADER (100% Working URL) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00F5D4&height=230&section=header&text=BELGIN%20LINO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ARCHITECT%20%7C%20AI%20%26%20VISION%20ENGINEER&descAlignY=62&descSize=18" width="100%" alt="Header" />
+<!-- 🌈 TOP NEON LASER BORDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ⌨️ MULTI-LINE TERMINAL TYPING SVG -->
+<!-- ⚡ 100% RELIABLE ANIMATED HERO TITLE (NEVER BREAKS) -->
 <a href="https://belginlino.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=850&height=55&lines=%3E+root%40belginlino%3A~%23+init_system+ai_full_stack_engine.sh;%3E+Deploying+Real-Time+YOLOv8+Computer+Vision+Pipelines...;%3E+Scaling+High-Performance+React+%2B+FastAPI+Microservices...;%3E+Status%3A+Available+for+High-Impact+Engineering+Roles" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=4000&pause=1000&color=00F5D4&center=true&vCenter=true&repeat=true&width=900&height=90&lines=BELGIN+LINO;AI+%26+FULL-STACK+ARCHITECT" alt="BELGIN LINO" />
+</a>
+
+<!-- ⌨️ TERMINAL COMMAND SUB-HEADER -->
+<a href="https://belginlino.in">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=45&lines=%3E+root%40belginlino%3A~%23+init_system+ai_full_stack_engine.sh;%3E+Deploying+Real-Time+YOLOv8+Computer+Vision+Pipelines...;%3E+Scaling+High-Performance+React+%2B+FastAPI+Microservices...;%3E+Status%3A+Available+for+High-Impact+Engineering+Roles" alt="Terminal Typing" />
 </a>
 
 <br/><br/>
 
-<!-- 🛡️ CYBERPUNK GLOWING BADGES (No blue underlines) -->
+<!-- 🛡️ CYBERPUNK GLOWING BADGES -->
 [![Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-BELGINLINO.IN-00F5D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://belginlino.in)&nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-BELGINLINO-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Belginlino)&nbsp;
 [![Gmail](https://img.shields.io/badge/DIRECT_COMMS-GMAIL-FF2A85?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:belginlino485@gmail.com)&nbsp;
@@ -176,11 +181,6 @@
 
 <div align="center">
 
-<!-- 🏆 HOLOGRAPHIC TROPHY CASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=Belginlino&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="100%" alt="Trophies" />
-
-<br/><br/>
-
 <!-- 🔥 RADICAL THEME STATS MATRIX -->
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=Belginlino&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF2A85&text_color=E2E8F0&include_all_commits=true" alt="GitHub Stats" />
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Belginlino&theme=radical&hide_border=true&background=0D1117&stroke=00F5D4&ring=FF2A85&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
@@ -200,7 +200,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- 🌊 FIXED ANIMATED FOOTER -->
+<!-- 🌊 RELIABLE FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:0F172A&height=120&section=footer&text=ENGINEERED%20BY%20BELGIN%20LINO&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
+  <code>⚡ ENGINEERED BY BELGIN LINO • DREAM IT. BUILD IT. SHIP IT. ⚡</code>
 </div>
