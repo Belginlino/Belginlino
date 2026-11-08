@@ -3,7 +3,7 @@
 <!-- 🌈 TOP NEON LASER BORDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ⚡ 100% RELIABLE ANIMATED HERO TITLE (NEVER BREAKS) -->
+<!-- ⚡ 100% RELIABLE ANIMATED HERO TITLE -->
 <a href="https://belginlino.in">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=4000&pause=1000&color=00F5D4&center=true&vCenter=true&repeat=true&width=900&height=90&lines=BELGIN+LINO;AI+%26+FULL-STACK+ARCHITECT" alt="BELGIN LINO" />
 </a>
@@ -176,25 +176,26 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- 📊 TELEMETRY & LIVE ANALYTICS HUD -->
-<h2 align="center"><code>📊 // LIVE_GITHUB_TELEMETRY_HUD</code></h2>
+<!-- 📊 TELEMETRY & LIVE ANALYTICS HUD (100% WORKING SERVERS) -->
+<h2 align="center"><code>// LIVE_GITHUB_TELEMETRY_HUD</code></h2>
 
 <div align="center">
 
-<!-- 🔥 RADICAL THEME STATS MATRIX -->
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Belginlino&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF2A85&text_color=E2E8F0&include_all_commits=true" alt="GitHub Stats" />
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Belginlino&theme=radical&hide_border=true&background=0D1117&stroke=00F5D4&ring=FF2A85&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
+<!-- ROW 1: STREAK + PROFILE OVERVIEW -->
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Belginlino&theme=radical&hide_border=true&background=141321&stroke=00F5D4&ring=FF2A85&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belginlino&theme=radical" alt="Profile Summary" />
 
 <br/><br/>
 
-<!-- 📈 LANGUAGE BREAKDOWN + PROFILE DETAILS -->
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belginlino&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0&langs_count=8" alt="Top Languages" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belginlino&theme=radical" alt="Profile Summary" />
+<!-- ROW 2: STATS + TOP LANGUAGES (REPOS & COMMITS) -->
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Belginlino&theme=radical" alt="GitHub Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Belginlino&theme=radical" alt="Top Languages by Repo" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Belginlino&theme=radical" alt="Top Languages by Commit" />
 
 <br/><br/>
 
-<!-- 🌐 CYBERPUNK AREA CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Belginlino&bg_color=0D1117&color=00F5D4&line=FF2A85&point=38BDF8&area=true&area_color=00F5D4&hide_border=true&custom_title=REAL-TIME%20COMMIT%20FREQUENCY%20MATRIX" width="98%" alt="Commit Graph" />
+<!-- ROW 3: CYBERPUNK AREA CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Belginlino&bg_color=141321&color=00F5D4&line=FF2A85&point=38BDF8&area=true&area_color=00F5D4&hide_border=true&custom_title=REAL-TIME%20COMMIT%20FREQUENCY%20MATRIX" width="98%" alt="Commit Graph" />
 
 </div>
 
