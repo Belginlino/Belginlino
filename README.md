@@ -308,7 +308,10 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Belginlino&bg_color=05070a&color=39ff88&line=22d3ee&point=a855f7&area=true&area_color=22d3ee&hide_border=true" alt="GitHub contribution activity graph" />
+<!-- GitHub-hosted contribution calendar: avoid a broken third-party graph image. -->
+<a href="https://github.com/Belginlino?tab=overview#user-activity-overview">
+  <img width="100%" src="assets/activity-link.svg" alt="View Belgin Lino's live GitHub contribution activity on GitHub" />
+</a>
 
 </div>
 
