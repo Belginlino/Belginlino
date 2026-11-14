@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img">
+<defs><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#39FF88"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#A855F7"/></linearGradient></defs>
+<rect x="2" y="7" width="1196" height="94" rx="13" fill="#111923" stroke="#263342" stroke-width="2"/><rect x="2" y="7" width="8" height="94" rx="3" fill="url(#accent)"/><text x="34" y="66" fill="#F8FAFC" font-family="monospace" font-size="32" font-weight="700" letter-spacing="2">06 / PLAYER DASHBOARD</text><text x="1150" y="65" fill="#22D3EE" font-family="monospace" font-size="18" text-anchor="end">◆</text>
+</svg>
